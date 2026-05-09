@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Hexo
+db.json
+public/
+.deploy*/
+_multiconfig.yml
+
+# npm
+node_modules/
+*.log
