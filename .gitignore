@@ -11,3 +11,6 @@ _multiconfig.yml
 # npm
 node_modules/
 *.log
+
+# Custom
+source/_drafts/
