@@ -1,0 +1,40 @@
+# Fluid 主题配置
+# 更多配置请参考：https://fluid-dev.github.io/hexo-fluid-docs/
+
+# 全局
+favicon: /favicon.ico
+
+# 导航栏
+navbar:
+  blog_title: Zikifaker's Blog
+  menu:
+    - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
+    - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+
+# 首页
+index:
+  post_meta:
+    date: true
+    category: true
+    tag: true
+
+# 文章页
+post:
+  meta:
+    author: true
+    date: true
+    category: true
+    tag: true
+  comments:
+    enable: true
+
+# 代码高亮
+highlight:
+  theme: tomorrow
+  clipboard: true
+
+# 暗色模式
+dark_mode:
+  enable: true
+  default: auto
