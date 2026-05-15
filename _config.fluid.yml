@@ -44,5 +44,6 @@ about:
   enable: true
   avatar: /img/unicorn-gundam.png
   name: Zikifaker
+  intro: 个人开发者 & 旅行者
   icons:
     - { class: 'iconfont icon-github-fill', link: 'https://github.com', tip: 'GitHub' }

@@ -1,5 +1,6 @@
 ---
 title: about
+layout: about
 date: 2026-05-15 10:07:10
 comment: 'valine'
 ---
