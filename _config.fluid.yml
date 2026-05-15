@@ -38,3 +38,11 @@ highlight:
 dark_mode:
   enable: true
   default: auto
+
+# 关于页
+about:
+  enable: true
+  avatar: /img/unicorn-gundam.png
+  name: Zikifaker
+  icons:
+    - { class: 'iconfont icon-github-fill', link: 'https://github.com', tip: 'GitHub' }
